@@ -43,13 +43,7 @@ Demo Module for custom script
 ## Specifications
 
  - Console Command
-	- demomodule
-
- - Crongroup
-	- jyotiranjan
-
- - Cronjob
-	- jrb_demomodule_runcustomscript
+	- demomodule:run_customscript
 
 
 ## Attributes
